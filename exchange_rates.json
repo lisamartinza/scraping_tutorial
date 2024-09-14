@@ -3,126 +3,126 @@
         "Country":"Australia",
         "Abbreviation":"AU",
         "Currency":"Dollar",
-        "Rate":0.081
+        "Rate":0.0813
     },
     {
         "Country":"Botswana",
         "Abbreviation":"BW",
         "Currency":"Pula",
-        "Rate":0.70175
+        "Rate":0.70725
     },
     {
         "Country":"Brazil",
         "Abbreviation":"BR",
         "Currency":"Real",
-        "Rate":0.311836
+        "Rate":0.312302
     },
     {
         "Country":"Canada",
         "Abbreviation":"CA",
         "Currency":"Dollar",
-        "Rate":0.0739
+        "Rate":0.0746
     },
     {
         "Country":"China",
         "Abbreviation":"CN",
         "Currency":"Yuan",
-        "Rate":0.391589
+        "Rate":0.394132
     },
     {
         "Country":"Denmark",
         "Abbreviation":"DK",
         "Currency":"Kroner",
-        "Rate":0.36875
+        "Rate":0.3697
     },
     {
         "Country":"European Union",
         "Abbreviation":"EEC",
         "Currency":"Euro",
-        "Rate":0.04977
+        "Rate":0.049906
     },
     {
         "Country":"Hong Kong",
         "Abbreviation":"HK",
         "Currency":"Dollar",
-        "Rate":0.42385
+        "Rate":0.4276
     },
     {
         "Country":"India",
         "Abbreviation":"IN",
         "Currency":"Rupee",
-        "Rate":4.619536
+        "Rate":4.658105
     },
     {
         "Country":"Japan",
         "Abbreviation":"JP",
         "Currency":"Yen",
-        "Rate":7.7681
+        "Rate":7.7472
     },
     {
         "Country":"Malawi",
         "Abbreviation":"MW",
         "Currency":"Kwacha",
-        "Rate":91.3446
+        "Rate":92.1202
     },
     {
         "Country":"New Zealand",
         "Abbreviation":"NZ",
         "Currency":"Dollar",
-        "Rate":0.0877
+        "Rate":0.08805
     },
     {
         "Country":"Norway",
         "Abbreviation":"NO",
         "Currency":"Krone",
-        "Rate":0.5904
+        "Rate":0.5869
     },
     {
         "Country":"Russia",
         "Abbreviation":"RU",
         "Currency":"Rouble",
-        "Rate":5.014089
+        "Rate":5.053324
     },
     {
         "Country":"Sweden",
         "Abbreviation":"SE",
         "Currency":"Krona",
-        "Rate":0.56565
+        "Rate":0.56415
     },
     {
         "Country":"Switzerland",
         "Abbreviation":"CH",
         "Currency":"Francs",
-        "Rate":0.0463
+        "Rate":0.0465
     },
     {
         "Country":"Thailand",
         "Abbreviation":"TH",
         "Currency":"Thai Baht",
-        "Rate":1.85216
+        "Rate":1.848168
     },
     {
         "Country":"United Arab Emirates",
         "Abbreviation":"AE",
         "Currency":"Emirati Dirham",
-        "Rate":0.202032
+        "Rate":0.20382
     },
     {
         "Country":"United Kingdom",
         "Abbreviation":"GB",
         "Currency":"Pound",
-        "Rate":0.042023
+        "Rate":0.042071
     },
     {
         "Country":"United States America",
         "Abbreviation":"US",
         "Currency":"Dollar",
-        "Rate":0.055009
+        "Rate":0.0555
     },
     {
         "Country":"Zimbabwe",
         "Abbreviation":"ZW",
         "Currency":"Dollar",
-        "Rate":20.958508
+        "Rate":21.145707
     }
 ]
