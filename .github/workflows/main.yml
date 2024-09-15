@@ -28,7 +28,13 @@ jobs:
     - name: Pull latest changes
       run: git pull origin main
 
-    - name: Commit and push changes
+    - name: Check for changes
+      id: changes
+      run: |
+        git diff --exit-code || echo "Changes detected"
+
+    - name: Commit and push changes if there are any
+      if: steps.changes.outcome != 'success'
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "github-actions[bot]@users.noreply.github.com"
